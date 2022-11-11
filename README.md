@@ -1,3 +1,3 @@
 # Inteligência Artificial
 
-+ [Introdução](intro/introducao.md)
++ [Introdução](intro/intro.md)
